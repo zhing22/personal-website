@@ -1,2 +1,2 @@
 # Personal_Website
-https://ztang813.github.io/Personal_Website/index.html
+https://zhing22.github.io/personal-website/index.html
