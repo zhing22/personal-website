@@ -38,8 +38,15 @@ end of flip card
 */
 .portfolio-image {
   align-self: center;
-  padding-right: 0px;
-  padding-left: 30px;
+  padding-right: 30px;
+  padding-left: 32px;
+  max-height: 430px;
+  /* max-width: 350px; */
+  /* max-width: 300px; */
+  /* width: auto;  */
+  object-fit: contain;
+  width: auto;
+  height: auto;
 }
 
 /* button to top */
